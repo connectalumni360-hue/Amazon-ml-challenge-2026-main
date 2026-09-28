@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.mp4
+dataset/
+.vscode/
+.idea/
+*.log
+6ab10eb3b23ba_student_resource/
+*.pkl
+
